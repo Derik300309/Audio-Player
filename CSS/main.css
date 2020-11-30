@@ -44,3 +44,7 @@ body
     width: 100%;
     outline: none;
 }
+.player .contentBX
+{
+    padding: 10px 0;
+}
